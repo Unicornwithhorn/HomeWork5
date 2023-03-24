@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HomeworkGB\HomeWork5\VasjaUdarnik\obj\Debug\net6.0\VasjaUdarnik.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HomeworkGB\HomeWork5\VasjaUdarnik\obj\Debug\net6.0\VasjaUdarnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HomeworkGB\HomeWork5\VasjaUdarnik\obj\Debug\net6.0\VasjaUdarnik.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HomeworkGB\HomeWork5\VasjaUdarnik\obj\Debug\net6.0\VasjaUdarnik.AssemblyInfo.cs
+C:\Users\user\Desktop\HomeworkGB\HomeWork5\VasjaUdarnik\obj\Debug\net6.0\VasjaUdarnik.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HomeworkGB\HomeWork5\VasjaUdarnik\bin\Debug\net6.0\VasjaUdarnik.exe
+C:\Users\user\Desktop\HomeworkGB\HomeWork5\VasjaUdarnik\bin\Debug\net6.0\VasjaUdarnik.deps.json
+C:\Users\user\Desktop\HomeworkGB\HomeWork5\VasjaUdarnik\bin\Debug\net6.0\VasjaUdarnik.runtimeconfig.json
+C:\Users\user\Desktop\HomeworkGB\HomeWork5\VasjaUdarnik\bin\Debug\net6.0\VasjaUdarnik.dll
+C:\Users\user\Desktop\HomeworkGB\HomeWork5\VasjaUdarnik\bin\Debug\net6.0\VasjaUdarnik.pdb
+C:\Users\user\Desktop\HomeworkGB\HomeWork5\VasjaUdarnik\obj\Debug\net6.0\VasjaUdarnik.dll
+C:\Users\user\Desktop\HomeworkGB\HomeWork5\VasjaUdarnik\obj\Debug\net6.0\refint\VasjaUdarnik.dll
+C:\Users\user\Desktop\HomeworkGB\HomeWork5\VasjaUdarnik\obj\Debug\net6.0\VasjaUdarnik.pdb
+C:\Users\user\Desktop\HomeworkGB\HomeWork5\VasjaUdarnik\obj\Debug\net6.0\VasjaUdarnik.genruntimeconfig.cache
+C:\Users\user\Desktop\HomeworkGB\HomeWork5\VasjaUdarnik\obj\Debug\net6.0\ref\VasjaUdarnik.dll
